@@ -1,4 +1,4 @@
-# HPV+ Cancer Prediction
+# HPV+ Cancer Prediction using HPV-DeepSeek
 
 This repo contains trained machine learning models to predict HPV-positive (HPV+) cancer from healthy and cancer control samples using features generated from **HPV-DeepSeek**. The models have been trained and saved for direct reuse in downstream tasks such as evaluation, validation, and deployment.
 
